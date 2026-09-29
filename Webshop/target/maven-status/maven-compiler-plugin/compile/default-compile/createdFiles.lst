@@ -1,0 +1,17 @@
+com\mycompany\webshop\Webshop.class
+com\mycompany\webshop\Billable.class
+com\mycompany\webshop\BaseEntity.class
+com\mycompany\webshop\Identifiable.class
+com\mycompany\webshop\Customer.class
+com\mycompany\webshop\Order.class
+com\mycompany\webshop\Discount.class
+com\mycompany\webshop\DomainValidationException.class
+com\mycompany\webshop\PhysicalItem.class
+com\mycompany\webshop\Webshop$1.class
+com\mycompany\webshop\ServiceItem.class
+com\mycompany\webshop\Item.class
+com\mycompany\webshop\DigitalItem.class
+com\mycompany\webshop\OrderGUI.class
+com\mycompany\webshop\OrderParser.class
+com\mycompany\webshop\OrderGUI$2.class
+com\mycompany\webshop\OrderGUI$1.class

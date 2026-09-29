@@ -1,0 +1,70 @@
+===== ORDER REPORT =====
+
+Order ORD-2025-1102-00123 - PAID - Ana Ionescu (GOLD)
+Shipping required: true
+Total before tax: 163.29000000000002
+Total with tax: 197.5809
+
+Items:
+  SERVICE: Extended Warranty 12m [WARR-1Y-EXT] x1
+    Quantity: 1
+    Unit price: 14.99
+    Discounts: 0.0
+    Line total: 14.99
+  PHYSICAL: Clean Code, RO [BOOK-978973413] x2
+    Quantity: 2
+    Unit price: 38.5
+    Discounts: 5.0
+    Line total: 72.0
+  DIGITAL: Java 6 OOP Basics (Video) [COURSE-JAVA6-101] x1
+    Quantity: 1
+    Unit price: 79.9
+    Discounts: 0.0
+    Line total: 79.9
+
+-------------------------
+
+Order ORD-2025-1102-00124 - PROCESSING - Mihai Popescu (SILVER)
+Shipping required: true
+Total before tax: 208.89000000000001
+Total with tax: 248.5791
+
+Items:
+  SERVICE: Home Office Setup Service [SETUP-HOME-OFFICE] x1
+    Quantity: 1
+    Unit price: 29.99
+    Discounts: 0.0
+    Line total: 29.99
+  PHYSICAL: Keychron K6 Mechanical Keyboard [KB-MECH-K6] x1
+    Quantity: 1
+    Unit price: 89.9
+    Discounts: 10.0
+    Line total: 79.9
+  PHYSICAL: Logitech MX Master 3 Mouse [MOUSE-LOGI-MX3] x1
+    Quantity: 1
+    Unit price: 99.0
+    Discounts: 0.0
+    Line total: 99.0
+
+-------------------------
+
+Order ORD-2025-1102-00125 - SHIPPED - Elena Tudor (PLATINUM)
+Shipping required: true
+Total before tax: 1318.9
+Total with tax: 1595.8690000000001
+
+Items:
+  DIGITAL: Microsoft Office 365 License (1 year) [SOFT-MS-OFFICE365] x1
+    Quantity: 1
+    Unit price: 69.9
+    Discounts: 0.0
+    Line total: 69.9
+  PHYSICAL: Dell XPS 13 Laptop [LAPTOP-DELL-XPS13] x1
+    Quantity: 1
+    Unit price: 1299.0
+    Discounts: 50.0
+    Line total: 1249.0
+
+-------------------------
+
+Entities created: 11
